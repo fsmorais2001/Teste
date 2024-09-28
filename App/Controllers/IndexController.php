@@ -10,6 +10,7 @@ class IndexController extends Action{
 
         $this->view->dados = array('Sofá', 'Cadeira', 'Cama');
         $this->render('index', 'layout1');
+        "aaaaaa";
 
     }
 
